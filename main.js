@@ -3,7 +3,7 @@
  * Je vindt beide in de embed-code van je formulier (Forms > Embedded forms > HTML-code):
  *   https://assets.mailerlite.com/jsonp/ACCOUNT_ID/forms/FORM_ID/subscribe
  */
-const MAILERLITE = { account: "", form: "" };
+const MAILERLITE = { account: "2735560", form: "203671589219206499" };
 
 const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 document.documentElement.classList.add("js");
